@@ -1,5 +1,5 @@
 module.exports = {
 	// Development configuration options
 	sessionSecret: "mySecret",
-	db: 'mongodb://172.19.5.136/mean'
+	db: 'mongodb://127.0.0.1/mean'
 };
